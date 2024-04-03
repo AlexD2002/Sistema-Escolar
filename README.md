@@ -1,0 +1,1 @@
+Sistema Escolar com nomes, idade e notas dos alunos junto a interface. ![Captura de tela 2024-04-03 161538](https://github.com/AlexD2002/Sistema-Escolar/assets/140286342/46d1513f-a258-461b-bc9d-7a06f591fd49)
